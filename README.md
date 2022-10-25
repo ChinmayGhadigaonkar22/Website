@@ -1,2 +1,2 @@
 # Website
-Beginner level Iqoo Z5 mobile website using html+css+bootstrap
+Beginner level Iqoo Z5 mobile Responsive website using html+css+bootstrap
